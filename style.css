@@ -662,7 +662,7 @@ footer .copyright {
     }
 
     #banner3 .banner-box {
-        width: 28%;
+        width: 100%;
     }
 
     #newsletter form {
@@ -701,5 +701,29 @@ footer .copyright {
     #feature {
         justify-content: space-between;
     }
+    #banner {
+        height: 40vh;
+    }
+    #sm-banner .banner-box {
+             height: 40vh;
+    }
 
+    #sm-banner .banner-box-2 {
+        margin-top: 20px;
+    }
+    #banner3 {
+        padding: 0 20px;
+    }
+    #banner3 .banner-box {
+        width: 100%;
+    }
+    #newsletter {
+        padding:40px 20px ;
+    }
+    #newsletter form {
+        width: 100%;
+    }
+    footer .copyright{
+        text-align: start;
+    }
 }
